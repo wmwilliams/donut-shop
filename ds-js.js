@@ -53,9 +53,6 @@ document.getElementById('btn').addEventListener('click', function() {
   var booo = new Stores(addloc[0], addloc[1], addloc[2], addloc[3]);
   booo.render();
 });
-
-
-
 var down = new Stores('Downtown', 8, 43, 4.5);
 var cap = new Stores('Capitol Hill', 4, 37, 2)
 var south = new Stores('South Lake Union', 9, 23, 6.33);
