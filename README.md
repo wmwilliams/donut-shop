@@ -12,3 +12,6 @@ Also I want to beef up the menu, and make it a little more substantial.
 Added a few pics and animations. Couldnt find a better color theme that I liked so I stuck with what I had.
 
 Got the pictures from google images after I did a cartoon doughnut search. Edited them a little with gimp.
+
+I almost forgot, I used this website to help me rotate my doughnut animations
+http://stackoverflow.com/questions/17619217/css-image-rotation-transformation
