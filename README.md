@@ -15,3 +15,5 @@ Got the pictures from google images after I did a cartoon doughnut search. Edite
 
 I almost forgot, I used this website to help me rotate my doughnut animations
 http://stackoverflow.com/questions/17619217/css-image-rotation-transformation
+
+One more thing I forgot to mention, I used a big lebowski ipsum as well as resevoir dogs ipsum I believe
